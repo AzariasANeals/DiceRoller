@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Dice Roller</string>
+    <string name="roll">Roll</string>
+    <string name="diceroll1">You rolled a 1!</string>
+    <string name="diceroll2">You rolled a 2!</string>
+    <string name="diceroll3">You rolled a 3!</string>
+    <string name="diceroll4">You rolled a 4!</string>
+    <string name="diceroll5">You rolled a 5!</string>
+    <string name="diceroll6">You rolled a 6!</string>
+    <string name="win">YOU WIN!</string>
+    <string name="lose">YOU LOSE!</string>
+</resources>
